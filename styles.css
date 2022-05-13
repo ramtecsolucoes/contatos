@@ -3,7 +3,7 @@
 
 body{
   background-color: #e4e4e7;
-  max-width: 400px;
+
   margin:0;
   padding:0;
 
@@ -12,6 +12,7 @@ body{
 
 header{
   margin:0;
+  padding: 0;
     width: auto;
     height: auto;
     display: flex;
@@ -19,7 +20,7 @@ header{
     justify-content: center;
     align-items: center;
     background-image: url('background.png');
-    background-size: 1000px 80px;
+    background-size: 100% 80px;
 
     background-repeat: no-repeat;
     
