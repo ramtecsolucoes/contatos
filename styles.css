@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,900&family=Radio+Canada&display=swap');
+
+
+body{
+  background-color: #e4e4e7;
+
+
+}
+
+header{
+    width: auto;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('background.png');
+    background-size: 1000px 80px;
+
+    background-repeat: no-repeat;
+    
+
+
+    
+}
+.img{
+    justify-content: center;
+    
+}
+.img img{ 
+    width: 120px;
+}
+
+.titulo{
+    font-family: 'Bodoni Moda', serif;
+    font-family: 'Radio Canada', sans-serif;
+
+}
+
+
+
+  .botoes{
+      margin-top: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: auto;
+
+  }
+  .btn{
+    margin-top: 30px;
+    border-radius: 20px;
+    width: 350px;
+    height: 50px;
+    
+  }
