@@ -58,5 +58,7 @@ header{
     border-radius: 20px;
     width: 350px;
     height: 50px;
+    text-shadow: 2px 2px black;
+    box-shadow: 2px 5px 2px black;
     
   }
